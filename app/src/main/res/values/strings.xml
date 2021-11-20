@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JNews</string>
+    <string name="api_key">be67eac1ebc34acc9058dc3f63926caa</string>
+    <string name="tidak_ada_judul">Tidak ada judul</string>
+</resources>
